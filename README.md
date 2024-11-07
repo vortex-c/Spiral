@@ -9,8 +9,8 @@ A flutter assessment project
 - Using Getx for State Management
 
 **What can be further improved?**
-- Currently added translation as hardcoded strings in the code. We can separate it out.
-- Desigining Theme for better reuseability of colors and typography
+- Added translation as hardcoded strings in the code. We can separate it out.
+- Design Theme for better reuseability of colors and typography
 
 #UI
 ![ui](https://github.com/user-attachments/assets/d8db9247-517a-4a5f-8702-b957afd152fd)
