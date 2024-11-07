@@ -2,25 +2,25 @@
 
 A flutter assessment project
 
-#Approach
+# Approach
 
 - Using GetX for DI
 - Using GetX for Navigation
 - Using Getx for State Management
 
-**What can be further improved?
+**What can be further improved?**
 - Currently added translation as hardcoded strings in the code. We can separate it out.
 - Desigining Theme for better reuseability of colors and typography
 
 #UI
 ![ui](https://github.com/user-attachments/assets/d8db9247-517a-4a5f-8702-b957afd152fd)
 
-**Complete Screens
+**Complete Screens**
 - Signup
 - Key Pass Auth
 - Auth Success
   
-*Incomplete Screens*
+**Incomplete Screens**
 - Due to time can not be able to complete further screens
 
 #Issues Faced
